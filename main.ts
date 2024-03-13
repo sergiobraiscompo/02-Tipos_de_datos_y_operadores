@@ -4,5 +4,5 @@ const bebidas = 18;
 
 const gastos_a_dividir = ticket - bebidas;
 
-console.log(gastos_a_dividir);
-console.log(gastos_a_dividir/amigos);
+console.log("gastos a dividir = " + gastos_a_dividir + "€");
+console.log("Gasto por persona = " + gastos_a_dividir/amigos + "€");
